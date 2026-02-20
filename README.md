@@ -32,4 +32,6 @@ Each project includes:
 ## Projects
 
 > Projects will be added progressively as repositories and linked here.
-
+- 🔹 [Python Master Basics](https://github.com/laammar/python-master-basics)
+- 🔹 [SQL Projects](https://github.com/tu-usuario/sql-projects)
+- 🔹 [Pokémon Card Web Scraping](https://github.com/laammar/Pokemon-card-web-scraping)
